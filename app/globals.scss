@@ -1,0 +1,20 @@
+@use "variables" as variables;
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background: rgb(53, 40, 89);
+  background: linear-gradient(
+    180deg,
+    rgba(53, 40, 89, 1) 0%,
+    rgba(37, 35, 47, 1) 35%
+  );
+  color: variables.$lightText;
+}
+
+a {
+  color: variables.$linkText;
+  text-decoration: none;
+}
