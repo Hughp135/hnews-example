@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "./styles.module.scss";
+import styles from "./header.module.scss";
 import headerBgImage from "../../../public/headerbg.jpg";
 
 export const Header = () => {

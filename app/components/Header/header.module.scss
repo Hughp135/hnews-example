@@ -1,6 +1,8 @@
+@use "../../variables" as variables;
+
 .header {
   height: 200px;
-  padding: 20px 40px;
+  padding: variables.$spacing * 2px;
   position: relative;
 
   h1 {

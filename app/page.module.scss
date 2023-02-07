@@ -1,0 +1,5 @@
+@use "variables" as variables;
+
+.main {
+  padding: variables.$spacing * 2px;
+}
