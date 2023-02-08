@@ -11,7 +11,8 @@ export const Header = () => {
         src={headerBgImage}
         fill
       />
-      <h1>Hacker News Top 100 Stories</h1>
+      <h1>Hacker News</h1>
+      <h2>Top 100 Stories</h2>
     </header>
   );
 };

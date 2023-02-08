@@ -1,19 +1,73 @@
 @use "../../variables" as variables;
 
+$titleBorderColor: darken(variables.$lightText, 20%);
+
 .header {
   height: 200px;
-  padding: variables.$spacing * 2px;
+  padding: variables.$spacing * 4px;
   position: relative;
+  font-family: "Source Code Pro", monospace;
+  margin: 0 -#{variables.$spacing * 2}px;
+  overflow: hidden;
 
   h1 {
-    margin-top: 100px;
+    font-size: 3em;
+    margin-top: 80px;
     margin-bottom: 0;
     font-weight: 300;
+  }
+
+  h2 {
+    margin: 0;
+    font-weight: 200;
+    border-right: $titleBorderColor solid 3px;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  h2 {
+    color: darken(variables.$lightText, 20%);
+    animation: animated-text 1s steps(18, end) 0.5s 1 normal both,
+      animated-cursor 600ms steps(18, end) infinite;
+  }
+}
+
+@keyframes animated-text {
+  from {
+    width: 0;
+  }
+  to {
+    width: 205px;
+  }
+}
+
+@keyframes animated-cursor {
+  from {
+    border-right-color: $titleBorderColor;
+  }
+  to {
+    border-right-color: transparent;
   }
 }
 
 .bgImage {
+  height: 110% !important;
+  width: 110% !important;
   object-fit: cover;
   z-index: -1;
   filter: brightness(0.4) opacity(0.2);
+  animation: bg-image-move 8s ease infinite;
+  animation-direction: alternate;
+}
+
+@keyframes bg-image-move {
+  0% {
+    transform: translateX(-3%) translateY(3%);
+  }
+  50% {
+    transform: translateX(0) translateY(0);
+  }
+  100% {
+    transform: translateX(-3%) translateY(3%);
+  }
 }

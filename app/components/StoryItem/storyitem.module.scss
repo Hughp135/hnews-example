@@ -1,7 +1,14 @@
 @use "../../variables" as variables;
 
 .container {
-  padding: #{variables.$spacing}px 0;
+  padding: #{variables.$spacing}px;
+
+  transition: 0.3s;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+  }
 
   h3 {
     margin: 0;

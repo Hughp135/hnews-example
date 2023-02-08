@@ -17,8 +17,11 @@ exports[`Header should match the snapshot 1`] = `
       style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
     />
     <h1>
-      Hacker News Top 100 Stories
+      Hacker News
     </h1>
+    <h2>
+      Top 100 Stories
+    </h2>
   </header>
 </DocumentFragment>
 `;

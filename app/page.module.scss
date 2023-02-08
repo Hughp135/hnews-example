@@ -1,5 +1,5 @@
 @use "variables" as variables;
 
 .main {
-  padding: variables.$spacing * 2px;
+  padding: #{variables.$spacing}px;
 }
