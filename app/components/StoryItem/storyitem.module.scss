@@ -1,0 +1,14 @@
+@use "../../variables" as variables;
+
+.container {
+  padding: #{variables.$spacing}px 0;
+
+  h3 {
+    margin: 0;
+  }
+
+  p {
+    margin: 0;
+    color: darken(variables.$lightText, 50%);
+  }
+}

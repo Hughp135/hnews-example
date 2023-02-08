@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoryItem should render the story 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <a
+      href="http://test.url"
+      rel="noreferrer"
+      target="_blank"
+    >
+      <h3>
+        A story is here
+      </h3>
+    </a>
+    <p>
+      1 votes | test
+    </p>
+  </div>
+</DocumentFragment>
+`;

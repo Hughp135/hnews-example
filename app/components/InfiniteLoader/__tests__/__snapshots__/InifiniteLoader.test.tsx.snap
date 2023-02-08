@@ -1,0 +1,831 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
+<DocumentFragment>
+  <div
+    class="infinite-scroll-component__outerdiv"
+  >
+    <div
+      class="infinite-scroll-component "
+      style="height: auto; overflow: auto;"
+    >
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`InfiniteLoader should render no stories 1`] = `
+<DocumentFragment>
+  <div
+    class="infinite-scroll-component__outerdiv"
+  >
+    <div
+      class="infinite-scroll-component "
+      style="height: auto; overflow: auto;"
+    >
+      <h4>
+        No more stories to load
+      </h4>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`InfiniteLoader should render the first 16 stories after a scroll event occurs 1`] = `
+<DocumentFragment>
+  <div
+    class="infinite-scroll-component__outerdiv"
+  >
+    <div
+      class="infinite-scroll-component "
+      style="height: auto; overflow: auto;"
+    >
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          href="http://test.url"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <h3>
+            A story is here
+          </h3>
+        </a>
+        <p>
+          1 votes | test
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`InfiniteLoader should render the loading state 1`] = `
+<DocumentFragment>
+  <div
+    class="infinite-scroll-component__outerdiv"
+  >
+    <div
+      class="infinite-scroll-component "
+      style="height: auto; overflow: auto;"
+    >
+      <h4>
+        Loading...
+      </h4>
+    </div>
+  </div>
+</DocumentFragment>
+`;
