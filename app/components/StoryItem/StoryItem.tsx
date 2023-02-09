@@ -11,12 +11,12 @@ export const StoryItem = ({ story }: { story: Story }) => {
       rel="noreferrer"
     >
       <ListItem>
-        <>
+        <article>
           <h3>{story.title}</h3>
           <p>
             {story.score} votes | {story.by}
           </p>
-        </>
+        </article>
       </ListItem>
     </a>
   );
