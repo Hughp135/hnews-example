@@ -18,7 +18,7 @@ export const InfiniteLoader = ({ storyIds }: { storyIds: number[] }) => {
       numberOfItems + ITEMS_PER_PAGE
     );
 
-    setNumberOfItems(numberOfItems + 16);
+    setNumberOfItems(numberOfItems + ITEMS_PER_PAGE);
 
     const newStories = await Promise.all(
       idsToFetch.map((storyId) => getStory(storyId))
