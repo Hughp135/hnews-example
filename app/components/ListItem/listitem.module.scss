@@ -1,0 +1,18 @@
+@use "../../variables" as variables;
+
+.container {
+  min-height: calc(70px - #{variables.$spacing * 2}px);
+  padding: #{variables.$spacing}px;
+  margin: #{variables.$spacing}px 0;
+  border-left: 2px solid white;
+  transition: 0.3s;
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+  }
+}

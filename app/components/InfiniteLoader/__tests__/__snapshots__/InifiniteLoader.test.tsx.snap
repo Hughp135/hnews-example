@@ -9,518 +9,550 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
       class="infinite-scroll-component "
       style="height: auto; overflow: auto;"
     >
-      <div
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
     </div>
   </div>
 </DocumentFragment>
@@ -552,262 +584,278 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
       class="infinite-scroll-component "
       style="height: auto; overflow: auto;"
     >
-      <div
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
-      <div
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
+      <a
         class="container"
+        href="http://test.url"
+        rel="noreferrer"
+        target="_blank"
       >
-        <a
-          href="http://test.url"
-          rel="noreferrer"
-          target="_blank"
+        <div
+          class="container"
         >
           <h3>
             A story is here
           </h3>
-        </a>
-        <p>
-          1 votes | test
-        </p>
-      </div>
+          <p>
+            1 votes | test
+          </p>
+        </div>
+      </a>
     </div>
   </div>
 </DocumentFragment>
@@ -822,9 +870,13 @@ exports[`InfiniteLoader should render the loading state 1`] = `
       class="infinite-scroll-component "
       style="height: auto; overflow: auto;"
     >
-      <h4>
-        Loading...
-      </h4>
+      <div
+        class="container"
+      >
+        <div
+          class="spinner"
+        />
+      </div>
     </div>
   </div>
 </DocumentFragment>

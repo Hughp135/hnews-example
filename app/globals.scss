@@ -48,13 +48,8 @@ body {
 }
 
 a {
-  color: variables.$lightText;
+  color: variables.$linkText;
   text-decoration: none;
-  transition: color 1s;
-
-  &:hover {
-    color: variables.$linkText;
-  }
 }
 
 p {

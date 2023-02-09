@@ -2,21 +2,22 @@
 
 exports[`StoryItem should render the story 1`] = `
 <DocumentFragment>
-  <div
+  <a
     class="container"
+    href="http://test.url"
+    rel="noreferrer"
+    target="_blank"
   >
-    <a
-      href="http://test.url"
-      rel="noreferrer"
-      target="_blank"
+    <div
+      class="container"
     >
       <h3>
         A story is here
       </h3>
-    </a>
-    <p>
-      1 votes | test
-    </p>
-  </div>
+      <p>
+        1 votes | test
+      </p>
+    </div>
+  </a>
 </DocumentFragment>
 `;

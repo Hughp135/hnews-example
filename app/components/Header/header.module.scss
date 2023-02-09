@@ -3,17 +3,30 @@
 $titleBorderColor: darken(variables.$lightText, 20%);
 
 .header {
-  height: 200px;
-  padding: variables.$spacing * 4px;
   position: relative;
+  background: #32294d;
+  height: 200px;
+  padding: #{variables.$spacing * 4}px;
   font-family: "Source Code Pro", monospace;
   margin: 0 -#{variables.$spacing * 2}px;
   overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+
+  &.small {
+    height: 80px;
+    padding: #{variables.$spacing * 2}px #{variables.$spacing * 4}px;
+    position: sticky;
+    top: 0;
+
+    h1 {
+      font-size: 2.5em;
+    }
+  }
 
   h1 {
     font-size: 3em;
-    margin-top: 80px;
-    margin-bottom: 0;
+    margin: 0;
     font-weight: 300;
   }
 
@@ -32,6 +45,15 @@ $titleBorderColor: darken(variables.$lightText, 20%);
   }
 }
 
+.bgImage {
+  height: 110% !important;
+  width: 110% !important;
+  object-fit: cover;
+  filter: brightness(0.4) opacity(0.2);
+  animation: bg-image-move 8s ease infinite;
+  animation-direction: alternate;
+}
+
 @keyframes animated-text {
   from {
     width: 0;
@@ -48,16 +70,6 @@ $titleBorderColor: darken(variables.$lightText, 20%);
   to {
     border-right-color: transparent;
   }
-}
-
-.bgImage {
-  height: 110% !important;
-  width: 110% !important;
-  object-fit: cover;
-  z-index: -1;
-  filter: brightness(0.4) opacity(0.2);
-  animation: bg-image-move 8s ease infinite;
-  animation-direction: alternate;
 }
 
 @keyframes bg-image-move {
