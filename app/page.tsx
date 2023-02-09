@@ -1,5 +1,6 @@
 import { getStory, getTopStoryIDs } from "@/utils/api";
 import { InfiniteLoader } from "./components/InfiniteLoader/InifiniteLoader";
+import { Spinner } from "./components/Spinner/Spinner";
 import { StoryItem } from "./components/StoryItem/StoryItem";
 import styles from "./page.module.scss";
 
