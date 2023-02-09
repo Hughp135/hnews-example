@@ -18,12 +18,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -35,12 +37,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -52,12 +56,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -69,12 +75,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -86,12 +94,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -103,12 +113,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -120,12 +132,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -137,12 +151,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -154,12 +170,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -171,12 +189,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -188,12 +208,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -205,12 +227,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -222,12 +246,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -239,12 +265,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -256,12 +284,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -273,12 +303,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -290,12 +322,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -307,12 +341,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -324,12 +360,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -341,12 +379,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -358,12 +398,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -375,12 +417,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -392,12 +436,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -409,12 +455,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -426,12 +474,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -443,12 +493,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -460,12 +512,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -477,12 +531,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -494,12 +550,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -511,12 +569,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -528,12 +588,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -545,12 +607,14 @@ exports[`InfiniteLoader should render 32 stories if scrolled twice 1`] = `
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
     </div>
@@ -593,12 +657,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -610,12 +676,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -627,12 +695,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -644,12 +714,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -661,12 +733,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -678,12 +752,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -695,12 +771,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -712,12 +790,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -729,12 +809,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -746,12 +828,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -763,12 +847,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -780,12 +866,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -797,12 +885,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -814,12 +904,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -831,12 +923,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
       <a
@@ -848,12 +942,14 @@ exports[`InfiniteLoader should render the first 16 stories after a scroll event 
         <div
           class="container"
         >
-          <h3>
-            A story is here
-          </h3>
-          <p>
-            1 votes | test
-          </p>
+          <article>
+            <h3>
+              A story is here
+            </h3>
+            <p>
+              1 votes | test
+            </p>
+          </article>
         </div>
       </a>
     </div>

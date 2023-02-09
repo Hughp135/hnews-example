@@ -11,12 +11,14 @@ exports[`StoryItem should render the story 1`] = `
     <div
       class="container"
     >
-      <h3>
-        A story is here
-      </h3>
-      <p>
-        1 votes | test
-      </p>
+      <article>
+        <h3>
+          A story is here
+        </h3>
+        <p>
+          1 votes | test
+        </p>
+      </article>
     </div>
   </a>
 </DocumentFragment>
